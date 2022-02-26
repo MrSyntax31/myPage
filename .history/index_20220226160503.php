@@ -21,7 +21,7 @@
 
 <div class="header">
 	<h2>Home Page</h2>
-	<p>Welcome to my project page	</p>
+	Welcome to my project page	
 </div>
 <div class="content">
   	<!-- notification message -->

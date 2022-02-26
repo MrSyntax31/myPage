@@ -21,8 +21,8 @@
 
 <div class="header">
 	<h2>Home Page</h2>
-	<p>Welcome to my project page	</p>
 </div>
+	
 <div class="content">
   	<!-- notification message -->
   	<?php if (isset($_SESSION['success'])) : ?>
